@@ -2,7 +2,7 @@
 
 Easy to use free personal download manager
 
-you can edit my download manager but you can'r use it for commercial use in any way
+you can edit my download manager in any way you want!
 
 simple template in links.txt
 
