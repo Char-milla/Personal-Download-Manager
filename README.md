@@ -12,3 +12,5 @@ simple template in links.txt
 	 description = ""
 	};
 ```
+
+IMPORTANT* dont forget to add the file extension in the name like rufus.exe and love.zip
