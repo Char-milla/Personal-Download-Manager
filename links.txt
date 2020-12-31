@@ -1,0 +1,29 @@
+--[[ Template
+
+	{name="", 
+	 url="", 
+	 description = ""
+	};
+
+--]]
+
+
+return {
+	{name="Rufus.exe", 
+	 url="https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe", 
+	 description = "Rufus yay"
+	};       
+
+
+
+	{name="Cheat Engine.exe", 
+	 url="https://dkvlxw8mnrbvq.cloudfront.net/a1k6c=scfkwr2/CheatEngine72.exe", 
+	 description = "hi"
+	};
+
+	{name="Love2d-64bit.zip", 
+	 url="https://github.com/love2d/love/releases/download/11.3/love-11.3-win64.zip", 
+	 description = "The best easy to use game framework!"
+	};
+
+}
