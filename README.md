@@ -14,3 +14,5 @@ simple template in links.txt
 ```
 
 IMPORTANT* dont forget to add the file extension in the name like rufus.exe and love.zip
+
+Download link for windows: ![]https://github.com/Char-milla/Personal-Download-Manager/releases/tag/v1.0
